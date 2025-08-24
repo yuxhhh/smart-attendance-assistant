@@ -20,10 +20,23 @@ This project was built to solve a real problem: keeping track of subject-wise at
 - LocalStorage for data persistence (no external database needed)  
 
 ---
+📌 Roadmap
 
-## 🚀 Getting Started  
+ Basic subject and hours input
 
-### 1. Clone the repository  
-```bash
-git clone https://github.com/yuxhhh/smart-attendance-assistant.git
-cd smart-attendance-assistant
+ Notification system
+
+ Themed UI (Dark/Light)
+
+ Mobile-first responsive design
+
+ Export / Import attendance data
+
+🤝 Contributing
+
+Contributions, ideas, and feedback are welcome!
+Feel free to fork the repo, open issues, or submit pull requests.
+
+📄 License
+
+This project is licensed under the MIT License – you are free to use, modify, and distribute.
