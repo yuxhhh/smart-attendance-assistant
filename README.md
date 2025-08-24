@@ -1,12 +1,29 @@
-# React + Vite
+# 📚 Smart Attendance Assistant  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A lightweight and user-friendly web app to help students track their **class attendance** and plan ahead.  
+This project was built to solve a real problem: keeping track of subject-wise attendance, required hours, and how many classes you can afford to miss — all in one clean and easy dashboard.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features (Planned & Current)
+- 📅 **Subject-wise attendance tracking**  
+- ⏰ **Smart reminders** before class: “Maths class will begin in 1 hour. Do you want to attend?”  
+- 🌙 **Dark & Light themes** for comfortable use  
+- 🔔 **Notifications** (Yes / No option)  
+- 📊 **Simple dashboard** to see total hours, required hours, hours attended, and classes you can skip  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack
+- [React](https://reactjs.org/) (with [Vite](https://vitejs.dev/)) for the frontend  
+- [TailwindCSS](https://tailwindcss.com/) for styling (upcoming)  
+- LocalStorage for data persistence (no external database needed)  
+
+---
+
+## 🚀 Getting Started  
+
+### 1. Clone the repository  
+```bash
+git clone https://github.com/yuxhhh/smart-attendance-assistant.git
+cd smart-attendance-assistant
