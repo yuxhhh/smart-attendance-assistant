@@ -20,4 +20,4 @@
 ## 🛠 Tech Stack
 - ⚛️ [React (Vite)](https://vitejs.dev/) – frontend framework  
 - 🎨 [TailwindCSS](https://tailwindcss.com/) – styling (coming soon)  
-- 💾 LocalStorage – store your data, no external DB required  
+- 💾 LocalStorage – store your data, no external DB required.
